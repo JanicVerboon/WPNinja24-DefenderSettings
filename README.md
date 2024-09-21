@@ -1,0 +1,1 @@
+# WPNinja24-DefenderSettings
